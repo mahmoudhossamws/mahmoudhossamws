@@ -36,74 +36,77 @@
 </div>
 
 ## 🚀 Projects
+Building innovative solutions across various domains - from machine learning applications to game development and hardware design.
 
 ### 🔬 Machine Learning Projects
-<div align="center">
+<div>
   <a href="https://github.com/mahmoudhossamws/Student-Performance-Prediction-linear-regression-model">
-    <img src="https://img.shields.io/badge/📊_Student_Performance_Prediction-Linear_Regression-blue?style=for-the-badge" alt="Student Performance Prediction">
+    <img src="https://img.shields.io/badge/📊_Student_Performance_Prediction-Linear_Regression-blue?style=for-the-badge&logoSize=30" alt="Student Performance Prediction">
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/mahmoudhossamws/Weather-Predictor-Hidden-Markov-Model">
-    <img src="https://img.shields.io/badge/🌦️_Weather_Predictor-Hidden_Markov_Model-yellow?style=for-the-badge" alt="Weather Predictor">
+    <img src="https://img.shields.io/badge/🌦️_Weather_Predictor-Hidden_Markov_Model-yellow?style=for-the-badge&logoSize=30" alt="Weather Predictor">
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/mahmoudhossamws/Flowers-clustering-K-means-clustering-model">
-    <img src="https://img.shields.io/badge/🌸_Flowers_Clustering-K--Means-green?style=for-the-badge" alt="Flowers Clustering">
+    <img src="https://img.shields.io/badge/🌸_Flowers_Clustering-K--Means-green?style=for-the-badge&logoSize=30" alt="Flowers Clustering">
   </a>
 </div>
 
 ### 💻 Software Development Projects
-<div align="center">
+
+<div>
   <a href="https://github.com/JOEElmenshawy/Mini-Clash-of-Clans-Project">
-    <img src="https://img.shields.io/badge/🎮_Clash_of_Clans-Tower_Defense_Game-red?style=for-the-badge" alt="Clash of Clans">
+    <img src="https://img.shields.io/badge/🎮_Clash_of_Clans-Tower_Defense_Game-red?style=for-the-badge&logoSize=30" alt="Clash of Clans">
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/MohamESalem/Wasalni-QT">
-    <img src="https://img.shields.io/badge/🗺️_Wasalni-Pathfinder_System-purple?style=for-the-badge" alt="Wasalni Pathfinder">
+    <img src="https://img.shields.io/badge/🗺️_Wasalni-Pathfinder_System-purple?style=for-the-badge&logoSize=30" alt="Wasalni Pathfinder">
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/omar-rabeh-18/LibraryManagementSystem">
-    <img src="https://img.shields.io/badge/📚_Library_Management-System-teal?style=for-the-badge" alt="Library Management">
+    <img src="https://img.shields.io/badge/📚_Library_Management-System-teal?style=for-the-badge&logoSize=30" alt="Library Management">
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/mahmoudhossamws/Chicken-invaders-project-with-GUI">
-    <img src="https://img.shields.io/badge/🚀_Chicken_Invaders-Arcade_Game-orange?style=for-the-badge" alt="Chicken Invaders">
+    <img src="https://img.shields.io/badge/🚀_Chicken_Invaders-Arcade_Game-orange?style=for-the-badge&logoSize=30" alt="Chicken Invaders">
   </a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🎟️_Events_Management-Ticket_System-indigo?style=for-the-badge" alt="Events Management">
+<div>
+  <img src="https://img.shields.io/badge/🎟️_Events_Management-Ticket_System-indigo?style=for-the-badge&logoSize=30" alt="Events Management">
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🛒_Supermarket_Management-Sales_System-lightblue?style=for-the-badge" alt="Supermarket Management">
+<div>
+  <img src="https://img.shields.io/badge/🛒_Supermarket_Management-Sales_System-lightblue?style=for-the-badge&logoSize=30" alt="Supermarket Management">
 </div>
 
-### 🔧 Digital Design Projects
-<div align="center">
+### 🔧 Digital Design and hardware Projects
+
+<div>
   <a href="https://github.com/AdhamElRouby/Logic-Circuit-Simulator">
-    <img src="https://img.shields.io/badge/🧩_Logic_Circuit-Simulator-darkgreen?style=for-the-badge" alt="Logic Circuit Simulator">
+    <img src="https://img.shields.io/badge/🧩_Logic_Circuit-Simulator-darkgreen?style=for-the-badge&logoSize=30" alt="Logic Circuit Simulator">
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/mahmoudhossamws/Pong_Game">
-    <img src="https://img.shields.io/badge/🎮_Pong_Game-FPGA_Implementation-darkblue?style=for-the-badge" alt="Pong Game">
+    <img src="https://img.shields.io/badge/🎮_Pong_Game-FPGA_Implementation-darkblue?style=for-the-badge&logoSize=30" alt="Pong Game">
   </a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🤖_Line_Follower-Arduino_Robot-cyan?style=for-the-badge" alt="Line Follower Robot">
+<div>
+  <img src="https://img.shields.io/badge/🤖_Line_Follower-Arduino_Robot-cyan?style=for-the-badge&logoSize=30" alt="Line Follower Robot">
 </div>
 
 ## 📫 Connect With Me
