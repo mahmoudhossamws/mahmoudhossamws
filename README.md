@@ -41,10 +41,10 @@
 
 ### **🔬 Machine Learning Projects**  
 <div>  
-  <a href="https://github.com/mahmoudhossamws/Student-Performance-Prediction-linear-regression-model">  
-    <img src="https://img.shields.io/badge/📊_Student_Performance_Prediction-Linear_Regression-blue?style=for-the-badge&logoSize=30" alt="Student Performance Prediction">  
+  <a href="https://github.com/mahmoudhossamws/Film-Reviews-Classification-Sequential-Neural-Network">  
+    <img src="https://img.shields.io/badge/🎬_Film_Reviews_Classification-Sequential_Neural_Network-orange?style=for-the-badge&logoSize=30" alt="Film Reviews Classification">  
   </a>  
-</div>  
+</div>
 
 <div>  
   <a href="https://github.com/mahmoudhossamws/Weather-Predictor-Hidden-Markov-Model">  
@@ -57,6 +57,12 @@
     <img src="https://img.shields.io/badge/🌸_Flowers_Clustering-K--Means-green?style=for-the-badge&logoSize=30" alt="Flowers Clustering">  
   </a>  
 </div>  
+
+<div>  
+  <a href="https://github.com/mahmoudhossamws/Student-Performance-Prediction-linear-regression-model">  
+    <img src="https://img.shields.io/badge/📊_Student_Performance_Prediction-Linear_Regression-blue?style=for-the-badge&logoSize=30" alt="Student Performance Prediction">  
+  </a>  
+</div>
 
 ### **💻 Software Development Projects**  
 
