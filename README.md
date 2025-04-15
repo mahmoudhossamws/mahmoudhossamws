@@ -40,6 +40,13 @@
 **Building innovative solutions across various domains - from machine learning applications to game development and hardware design.**
 
 ### **🔬 Machine Learning Projects**  
+
+<div>  
+  <a href="https://github.com/mahmoudhossamws/Image-Classification-CNN">  
+    <img src="https://img.shields.io/badge/🖼️_Image_Classification-CNN_Model-orange?style=for-the-badge&logoSize=30" alt="Image Classification CNN">  
+  </a>  
+</div>
+
 <div>  
   <a href="https://github.com/mahmoudhossamws/Film-Reviews-Classification-Sequential-Neural-Network">  
     <img src="https://img.shields.io/badge/🎬_Film_Reviews_Classification-Sequential_Neural_Network-orange?style=for-the-badge&logoSize=30" alt="Film Reviews Classification">  
