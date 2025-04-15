@@ -42,7 +42,7 @@
 ### **🔬 Machine Learning Projects**  
 
 <div>  
-  <a href="https://github.com/mahmoudhossamws/Image-Classification-CNN">  
+  <a href="https://github.com/mahmoudhossamws/Image-Classification-Using-Convolutional-Neural-Networks">  
     <img src="https://img.shields.io/badge/🖼️_Image_Classification-CNN_Model-orange?style=for-the-badge&logoSize=30" alt="Image Classification CNN">  
   </a>  
 </div>
