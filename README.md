@@ -80,7 +80,7 @@
 ### **💻 Software Development Projects**  
 
 <div>  
-  <a href="https://github.com/JOEElmenshawy/Mini-Clash-of-Clans-Project">  
+  <a href="https://github.com/YousefElmenshawy/Mini-Clash-Of-Clans_-Milestone-2">  
     <img src="https://img.shields.io/badge/🎮_Clash_of_Clans-Tower_Defense_Game-red?style=for-the-badge&logoSize=30" alt="Clash of Clans">  
   </a>  
 </div>  
