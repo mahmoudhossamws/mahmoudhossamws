@@ -42,6 +42,12 @@
 ### **🔬 Machine Learning Projects**  
 
 <div>  
+  <a href="https://github.com/mahmoudhossamws/Shakespearean-Text-Generator-LSTM-Model">  
+    <img src="https://img.shields.io/badge/📜_Shakespearean_Text_Generator-LSTM_Model-red?style=for-the-badge&logoSize=30" alt="Shakespearean Text Generator">  
+  </a>  
+</div>
+
+<div>  
   <a href="https://github.com/mahmoudhossamws/Image-Classification-Using-Convolutional-Neural-Networks">  
     <img src="https://img.shields.io/badge/🖼️_Image_Classification-CNN_Model-orange?style=for-the-badge&logoSize=30" alt="Image Classification CNN">  
   </a>  
