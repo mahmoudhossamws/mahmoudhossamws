@@ -103,12 +103,16 @@
   </a>  
 </div>  
 
-<div>  
+<div> 
+  <a href="https://github.com/mahmoudhossamws/Events-Management-System"> 
   <img src="https://img.shields.io/badge/🎟️_Events_Management-Ticket_System-indigo?style=for-the-badge&logoSize=30" alt="Events Management">  
+  </a>
 </div>  
 
-<div>  
+<div>
+  <a href="https://github.com/mahmoudhossamws/Supermarket-Management-System">  
   <img src="https://img.shields.io/badge/🛒_Supermarket_Management-Sales_System-lightblue?style=for-the-badge&logoSize=30" alt="Supermarket Management">  
+  </a>
 </div>  
 
 ### **🔧 Digital Design and Hardware Projects**  
