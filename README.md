@@ -42,6 +42,12 @@
 ### **🔬 Machine Learning Projects**  
 
 <div>  
+  <a href="https://github.com/mahmoudhossamws/Maze-solver-Q-learning">  
+    <img src="https://img.shields.io/badge/🧭_Maze_Solver-Q_Learning_Agent-brightgreen?style=for-the-badge&logoSize=30" alt="Maze Solver Q-Learning">  
+  </a>  
+</div>
+
+<div>  
   <a href="https://github.com/mahmoudhossamws/Text-Generator-LSTM-Model">  
     <img src="https://img.shields.io/badge/📜_Shakespearean_Text_Generator-LSTM_Model-red?style=for-the-badge&logoSize=30" alt="Shakespearean Text Generator">  
   </a>  
