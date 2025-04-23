@@ -42,6 +42,12 @@
 ### **🔬 Machine Learning Projects**  
 
 <div>  
+  <a href="https://github.com/mahmoudhossamws/Face-Recognition-Login-System">  
+    <img src="https://img.shields.io/badge/🔐_Face_Recognition_Login_System-Qt_&_TensorFlow_Integration-crimson?style=for-the-badge&logoSize=30" alt="Face Recognition Login System">  
+  </a>  
+</div>
+
+<div>  
   <a href="https://github.com/mahmoudhossamws/Maze-solver-Q-learning">  
     <img src="https://img.shields.io/badge/🧭_Maze_Solver-Q_Learning_Agent-brightgreen?style=for-the-badge&logoSize=30" alt="Maze Solver Q-Learning">  
   </a>  
@@ -84,6 +90,12 @@
 </div>
 
 ### **💻 Software Development Projects**  
+
+<div>  
+  <a href="https://github.com/mahmoudhossamws/Face-Recognition-Login-System">  
+    <img src="https://img.shields.io/badge/🔐_Face_Recognition_Login_System-Qt_&_TensorFlow_Integration-crimson?style=for-the-badge&logoSize=30" alt="Face Recognition Login System">  
+  </a>  
+</div>
 
 <div>  
   <a href="https://github.com/YousefElmenshawy/Mini-Clash-Of-Clans_-Milestone-2">  
