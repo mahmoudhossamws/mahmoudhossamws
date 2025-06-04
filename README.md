@@ -42,6 +42,12 @@
 ### **🔬 Machine Learning Projects**  
 
 <div>  
+  <a href="https://github.com/mahmoudhossamws/Mahmoud-Chess-engine">  
+    <img src="https://img.shields.io/badge/♟️_Mahmoud_Chess_Engine-v1.0,_PyGame_&_TensorFlow-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Mahmoud Chess Engine v1.0">  
+  </a>  
+</div>
+
+<div>  
   <a href="https://github.com/mahmoudhossamws/Face-Recognition-Login-System">  
     <img src="https://img.shields.io/badge/🔐_Face_Recognition_Login_System-Qt_&_TensorFlow_Integration-crimson?style=for-the-badge&logoSize=30" alt="Face Recognition Login System">  
   </a>  
