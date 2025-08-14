@@ -95,6 +95,12 @@
   </a>  
 </div>
 
+<div>  
+  <a href="https://github.com/YousefSalah123/Credit-Card-Default-Prediction-using-Logistic-Regression">  
+    <img src="https://img.shields.io/badge/💳_Credit_Card_Default_Prediction-Logistic_Regression-darkblue?style=for-the-badge&logoSize=30" alt="Credit Card Default Prediction">  
+  </a>  
+</div>
+
 ### **💻 Software Development Projects**  
 
 <div>  
