@@ -159,10 +159,6 @@
   </a>  
 </div>  
 
-<div>  
-  <img src="https://img.shields.io/badge/🤖_Line_Follower-Arduino_Robot-cyan?style=for-the-badge&logoSize=30" alt="Line Follower Robot">  
-</div>
-
 ## **📫 Connect With Me**  
 <div align="center">  
   <a href="https://github.com/mahmoudhossamws">  
