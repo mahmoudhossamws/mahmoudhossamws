@@ -2,7 +2,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mahmoudhossamws&color=blue)
 
 ## **💻 Computer Engineering Student | AUC**  
-**🎯 Passionate about machine learning, software development, digital design, and problem-solving, with a focus on creating efficient systems and applications. I enjoy tackling complex problems and turning innovative ideas into reality through code.**
+**🎯 Aspiring AI researcher and Computer Engineering student with strong foundations in machine learning and deep learning.
+Skilled in designing AI models using Python (TensorFlow, PyTorch). I have good problem-solving skills and experience
+in team-based project development. In this stage, I look forward to build applications that solve real-world problems, using my skills in AI and software development.**
 
 ## **🛠️ Skills**  
 <!-- C++, Qt, Verilog -->  
@@ -96,7 +98,7 @@
 </div>
 
 <div>  
-  <a href="https://github.com/YousefSalah123/Credit-Card-Default-Prediction-using-Logistic-Regression">  
+  <a href="https://github.com/mahmoudhossamws/Credit-Card-Default-Prediction-using-Logistic-Regression">  
     <img src="https://img.shields.io/badge/💳_Credit_Card_Default_Prediction-Logistic_Regression-darkblue?style=for-the-badge&logoSize=30" alt="Credit Card Default Prediction">  
   </a>  
 </div>
@@ -110,19 +112,13 @@
 </div>
 
 <div>  
-  <a href="https://github.com/YousefElmenshawy/Mini-Clash-Of-Clans_-Milestone-2">  
+  <a href="https://github.com/mahmoudhossamws/Mini-Clash-Of-Clans_Tower_Defense">  
     <img src="https://img.shields.io/badge/🎮_Clash_of_Clans-Tower_Defense_Game-red?style=for-the-badge&logoSize=30" alt="Clash of Clans">  
   </a>  
 </div>  
 
 <div>  
-  <a href="https://github.com/MohamESalem/Wasalni-QT">  
-    <img src="https://img.shields.io/badge/🗺️_Wasalni-Pathfinder_System-purple?style=for-the-badge&logoSize=30" alt="Wasalni Pathfinder">  
-  </a>  
-</div>  
-
-<div>  
-  <a href="https://github.com/omar-rabeh-18/LibraryManagementSystem">  
+  <a href="https://github.com/mahmoudhossamws/LibraryManagementSystem">  
     <img src="https://img.shields.io/badge/📚_Library_Management-System-teal?style=for-the-badge&logoSize=30" alt="Library Management">  
   </a>  
 </div>  
@@ -148,7 +144,7 @@
 ### **🔧 Digital Design and Hardware Projects**  
 
 <div>  
-  <a href="https://github.com/AdhamElRouby/Logic-Circuit-Simulator">  
+  <a href="https://github.com/mahmoudhossamws/Logic-Circuit-Simulator">  
     <img src="https://img.shields.io/badge/🧩_Logic_Circuit-Simulator-darkgreen?style=for-the-badge&logoSize=30" alt="Logic Circuit Simulator">  
   </a>  
 </div>  
